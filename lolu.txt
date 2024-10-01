@@ -1,0 +1,2 @@
+ui change :
+back ground color in to gray 
