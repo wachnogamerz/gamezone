@@ -5,14 +5,14 @@
 }
 
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'playfair display', serif;
     background-color: #000;
     color: #fff;
     overflow-x: hidden;
 }
 
 header {
-    background-color: #333;
+    background-color: #000000;
     padding: 20px;
     text-align: center;
     position: fixed;
@@ -49,6 +49,7 @@ nav ul li a:hover {
 #welcome {
     text-align: center;
     margin-top: 100px;
+    
 }
 
 section {
@@ -70,7 +71,7 @@ section {
 .activity {
     margin: 20px;
     text-align: center;
-    width: 300px;
+    width: 350px;
     border: 2px solid #555;
     padding: 20px;
     transition: transform 0.5s ease;
@@ -107,4 +108,7 @@ footer p {
 
 .welcome {
     animation: fadeIn 2s ease-in-out;
+}
+h1{
+    font-size: 50px;
 }
